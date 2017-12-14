@@ -18,7 +18,7 @@ class PrimeraVocal:
       elif p.lower() == 'o' or p.lower() == 'ó':
          print("La primera vocal es: {0}".format(p))
          break
-      elif p.lower() == 'u' or p.lower() == 'u':
+      elif p.lower() == 'u' or p.lower() == 'ú':
          print("La primera vocal es: {0}".format(p))
          break
       elif self.check:
