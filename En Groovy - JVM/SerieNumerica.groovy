@@ -1,5 +1,3 @@
-import java.util.Scanner
-
 def input = new Scanner(System.in)
 
 print("Ingrese el numero inicial: ")
