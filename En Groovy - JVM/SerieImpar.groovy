@@ -1,5 +1,3 @@
-import java.util.Scanner
-
 def numInicial, numFinal, stdin
 def listNum = []
 
