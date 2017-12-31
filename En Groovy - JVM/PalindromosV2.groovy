@@ -1,5 +1,3 @@
-import java.util.Scanner
-
 def input = new Scanner(System.in)
 def igual = 0, aux = 0, texto
 
