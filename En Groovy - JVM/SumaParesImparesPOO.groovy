@@ -1,5 +1,3 @@
-import java.util.Scanner
-
 class sumaParesImpares {
     def sumPar = 0, sumImpar = 0, num
 
