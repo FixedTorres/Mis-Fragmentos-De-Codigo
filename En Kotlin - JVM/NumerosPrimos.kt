@@ -1,7 +1,7 @@
 /*
 *    Autor:  Fixed Torres
 *    Descp:  Evaluar si un numero es primo o no
- */
+*/
 package numeroprimo
 
 fun main(arg: Array<String>) {
