@@ -15,7 +15,8 @@ i = filtrar(palabra.find("i"))
 o = filtrar(palabra.find("o"))
 u = filtrar(palabra.find("u"))
 
-vocal = min(a, min(e, min(i, min(o, u))))
+#vocal = min(a, min(e, min(i, min(o, u)))) => Forma larga
+vocal = min([a, e, i, o, u]) # => Forma corta
 
 print("\nLa primera vocal es: {}".format(palabra[vocal]))
 print("Su indice es: {}".format(vocal))
