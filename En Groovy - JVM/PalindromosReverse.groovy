@@ -1,8 +1,7 @@
 def input = new Scanner(System.in)
-def texto
 
 print("Ingrese la palabra que desea evaluar: ")
-texto = input.nextLine()
+def texto = input.nextLine()
 
 def revers = texto.reverse()
 
